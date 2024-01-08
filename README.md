@@ -4,4 +4,4 @@ Nombre: Jhoeslyn Daniela Flores Ninachoque
 
 Materia: INF-122
 
-Color Favorito: #F0F0F0
+Color Favorito:  #0000ff
